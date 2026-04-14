@@ -1,6 +1,4 @@
-/ =============================
-// src/components/ScrollTop.jsx
-// =============================
+
 export default function ScrollTop(){
   return (
     <button onClick={()=>window.scrollTo({top:0,behavior:'smooth'})}

@@ -1,6 +1,4 @@
-// =============================
-// Navbar.jsx (Dark Mode Added)
-// =============================
+
 import { useState } from "react";
 
 export default function Navbar() {

@@ -1,6 +1,4 @@
-// =============================
-// src/components/Blog.jsx
-// =============================
+
 import ReactMarkdown from "react-markdown";
 export default function Blog(){
   const md = "# Blog\nLearning VLSI";

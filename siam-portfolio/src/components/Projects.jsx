@@ -1,6 +1,4 @@
-// =============================
-// src/components/Projects.jsx
-// =============================
+
 import data from "../data/projects";
 export default function Projects(){
   return (

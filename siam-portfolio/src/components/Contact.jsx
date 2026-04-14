@@ -1,6 +1,4 @@
-// =============================
-// Contact.jsx
-// =============================
+
 export default function Contact(){
   return (
     <section className="py-16 text-center">

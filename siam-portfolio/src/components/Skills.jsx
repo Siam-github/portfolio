@@ -1,6 +1,4 @@
-// =============================
-// Skills.jsx
-// =============================
+
 export default function Skills(){
   const skills = ["CMOS","STA","LTSpice","Python","AutoCAD"];
   return (

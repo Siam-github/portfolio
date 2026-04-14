@@ -1,6 +1,4 @@
-// =============================
-// src/components/About.jsx
-// =============================
+
 export default function About(){
   return (
     <section className="py-16 px-6">
